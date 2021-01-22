@@ -4,10 +4,9 @@ body {
 }
 
 .bg {
+  background-origin: padding-box;
   background-image: ("Mr.Rogers.jpg");
-
   height: 100%;
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
